@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Joseph Geumlek
+gmail: josephgeumlek
 
-You can use the [editor on GitHub](https://github.com/jgeumlek/jgeumlek.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Interests
 
-### Markdown
+My work interests are in machine learning, with a focus in privacy preserving techniques such as differential privacy. I am also interested in teaching and science communication.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently, I am taking some personal time after completing my graduate degree.
 
-```markdown
-Syntax highlighted code block
+Outside of work, I enjoy video games and other such interactive fiction.
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
+- PhD in Computer Science, Artificial Intelligence
+    - Graduated June 2020
+    - University of California San Diego
+    - Advisor: [Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/)
+- Master's in Computer Science
+    - Received 2016
+    - University of California San Diego
+- BS Mathematics, BS Computer Science
+    - Graduated 2014
+    - University of California Irvine
+    
+## Publications
 
-1. Numbered
-2. List
+- [Privacy Amplification by Mixing and Diffusion Mechanisms.](https://papers.nips.cc/paper/9485-privacy-amplification-by-mixing-and-diffusion-mechanisms.pdf) NeurIPS 2019. (Amazon)
+- [Profile-based Privacy for Locally Private Computations.](https://arxiv.org/abs/1903.09084) ISIT 2019. (UCSD)
+- [Rényi Differential Privacy Mechanisms for Posterior Sampling.](http://papers.nips.cc/paper/7113-renyi-differential-privacy-mechanisms-for-posterior-sampling.pdf) NeurIPS 2017. (UCSD)
+- [On the Theory and Practice of Privacy-preserving Bayesian Data Analysis.](http://auai.org/uai2016/proceedings/papers/45.pdf) UAI 2016. (UCSD)
 
-**Bold** and _Italic_ and `Code` text
+## Teaching Experience
 
-[Link](url) and ![Image](src)
-```
+In the Spring of 2020, I received the "Doctoral Award for Excellence in Teaching" from the Computer Science and Engineering department at UCSD.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jgeumlek/jgeumlek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Courses, serving as Instructor
+- UCSD CSE 150A. Intro to Artificial Intelligence: Probabilistic Reasoning.
+    - Topics: probability theory, generative models, belief networks, reinforcement learning
+    - Three offerings (Winter 2020, Summer 2020 Sessions 1 and 2)
+- UCSD CSE 151A. Intro to Artificial Intelligence: Statistical Approaches.
+    - Topics: machine learning, disciriminative models, overfitting, validation
+    - Two offerings (Summer 2019 Sessions 1 and 2)
+    
