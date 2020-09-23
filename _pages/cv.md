@@ -70,3 +70,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Teaching Experience
+======
+{% assign sortedteach = site.teaching | sort: 'date' | reverse %} 
+  <ul>{% for post in sortedteach %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  
