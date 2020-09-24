@@ -86,7 +86,9 @@ Awards and Distinctions
 * Doctoral Award for Excellence in Teaching (UCSD CSE Department)
 * Outstanding Senior in Mathematics (UCI Math Department)
 * Howard Tucker Award (UCI Math Department)
+* Campuswide Honors Program (UCI, now known as the Campuswide Honors Collegium)
+* Honors in Mathematics (UCI Math Program)
 * Summa Cum Laude (2014 UCI B.S. Mathematics)
 * Magna Cum Laude (2014 UCI B.S. Computer Science)
-* Phi Beta Kappa
+* Phi Beta Kappa (Honor Society)
   
