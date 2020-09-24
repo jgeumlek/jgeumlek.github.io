@@ -24,21 +24,24 @@ Education
 
 Work experience
 ======
-* Summer 2018: AI Research Intern
-  * Amazon
-  * Location: Cambridge, UK
-  * Supervisors: Borja Balle, Tom Diethe
 
-* 2014 - 2020: Graduate Student Researcher, Teaching Assistant
-  * University of California San Diego
-  * Advisor: Kamalika Chaudhuri
-
-* 2019 - 2020: Associate-In (teaching a course)
+* 2019 - 2020: Associate-In (teaching a course) / Lecturer
   * University of California San Diego
   * Instructor Of Record
   * Taught upperdivision undergraduate courses, ranging from 40 to 100 students per section
   * Managed teams of 4 or more teaching assistants and tutors
 
+* Summer 2018: AI Research Intern
+  * Amazon
+  * Location: Cambridge, UK
+  * Supervisors: Borja Balle, Tom Diethe
+  * Worked on projects exploring strong data processing inequalities for divergences.
+
+* 2014 - 2020: Graduate Student Researcher, Teaching Assistant
+  * University of California San Diego
+  * Advisor: Kamalika Chaudhuri
+  * Worked on various projects related to differential privacy, as an individual and as part of a team.
+  
 Skills
 ======
 * Applied and Theoretical Machine Learning
@@ -77,4 +80,13 @@ Teaching Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards and Distinctions
+======
+
+* Doctoral Award for Excellence in Teaching (UCSD CSE Department)
+* Outstanding Senior in Mathematics (UCI Math Department)
+* Howard Tucker Award (UCI Math Department)
+* Summa Cum Laude (2014 UCI B.S. Mathematics)
+* Magna Cum Laude (2014 UCI B.S. Computer Science)
+* Phi Beta Kappa
   
