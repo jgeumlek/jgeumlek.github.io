@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
-## Machine Learning Researcher, PhD
+## Data Scientist, Machine Learning Researcher, PhD
 ## Educator
 
-Dr. Joseph Geumlek is a 2020 graduate of the University of California San Diego. Joseph specializes in differential privacy and related notions for machine learning, with a focus on privatizing Bayesian methods.
+Dr. Joseph Geumlek is a Data Scientist employed at Kaiser Permanente. Joseph's doctoral specialization is in differential privacy and related notions for machine learning, with a focus on privatizing Bayesian methods.
 
 Beyond Computer Science and Mathematics, Joseph also takes effective pedagogy seriously, and served as an instructor for several course offerings at UCSD.
 
