@@ -82,13 +82,9 @@ analytics:
 author:
   name             : "Joseph Geumlek"
   avatar           : "profile.png"
-  bio              : "Interests are in machine learning, with a focus in privacy preserving techniques such as differential privacy. I am also interested in teaching and science communication. 
-  
-  Currently, I am taking some personal time after completing my graduate degree. 
-  
-  Outside of work, I enjoy video games and other such interactive fiction."
+  bio              : "Data Scientist at Kaiser Permanente. Interests are in machine learning, with a focus in privacy preserving techniques such as differential privacy. I am also interested in teaching and science communication. Outside of work, I enjoy video games and other such interactive fiction."
   location         : "Los Angeles"
-  employer         :
+  employer         : "Kaiser Permanente"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=ICJmgFwAAAAJ"
   email            : "josephgeumlek@gmail.com"

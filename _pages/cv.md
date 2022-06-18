@@ -25,6 +25,13 @@ Education
 Work experience
 ======
 
+* 2021 - Present: Data Scientist
+  * Kaiser Permanente, Medical Informatics
+  * Designing, training, and maintaining models.
+  * Technologies used include the usual suspects of Python-based ML workflows.
+  * Large-scale experience using TensorFlow and Apache Spark.
+  * Example of a task: predicting ICD10 codes (diagnoses) from encounter data, and using historical data with an LSTM.
+
 * 2019 - 2020: Associate-In (teaching a course) / Lecturer
   * University of California San Diego
   * Instructor Of Record
@@ -57,7 +64,9 @@ Skills
 * Programming
   * C++
   * Python
+  * NumPy, Pandas, Scikit, TensorFlow
   * R, MATLAB
+  * Apache Spark
   * Linux Input Event Handling, Userspace Device Drivers
 * Teaching
   * Effective Online Course Design
